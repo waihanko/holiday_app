@@ -1,0 +1,2 @@
+String profileUrl = "https://cdn.leonardo.ai/users/d15371cb-b970-4c8d-87f6-4c9213061d72/generations/0cca579d-75b0-4ab8-af50-4d7cdc2a44b6/variations/alchemyrefiner_alchemymagic_0_0cca579d-75b0-4ab8-af50-4d7cdc2a44b6_0.jpg?w=512";
+String opponentProfileUrl = "https://cdn.leonardo.ai/users/61ed95a9-5b40-4c0f-bd4b-2b509b183325/generations/868e7355-0947-442e-8a41-29abede07a81/variations/Default_1990_tv_show_style_extraterrastrial_ultra_brutal_cosmi_0_868e7355-0947-442e-8a41-29abede07a81_1.jpg?w=512";
